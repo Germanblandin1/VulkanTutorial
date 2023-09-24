@@ -1,4 +1,4 @@
-# TrianguloVulkan
+# Tutorial de vulkan
 
 Tutorial realizado con visual studio 2022.
 
